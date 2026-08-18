@@ -13,21 +13,19 @@ Data Visualization
 
 **Dashboard Pages:**
 **1. HR Workforce Overview**
-Total Employees
-Attrition Count
-Attrition Rate
-Average Experience
-Average Salary
-Employees by Department
-Employees by Job Role
-Gender Distribution
-Salary & Performance by Department
+- Total Employees
+- Attrition Count
+- Attrition Rate
+- Average Experience
+- Average Salary
+- Employees by Department
+- Employees by Job Role
+- Gender Distribution
+- Salary & Performance by Department
 **2. Employee Attrition Analysis**
-Attrition by Experience Group
-Attrition by Age Group
-Attrition by Overtime
-
-
-Attrition by Year
-Attrition Rate by Department
-Attrition by Job Satisfaction
+- Attrition by Experience Group
+- Attrition by Age Group
+- Attrition by Overtime
+- Attrition by Year
+- Attrition Rate by Department
+- Attrition by Job Satisfaction
