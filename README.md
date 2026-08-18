@@ -22,6 +22,7 @@ Data Visualization
 - Employees by Job Role
 - Gender Distribution
 - Salary & Performance by Department
+  
 **2. Employee Attrition Analysis**
 - Attrition by Experience Group
 - Attrition by Age Group
